@@ -63,7 +63,7 @@ el sistema como:
 Se basa en la especificación y obtiene pruebas a partir de la documentación externa al objeto de prueba donde el objetivo principal  de la prueba es comprobar
 el comportamiento del sistema frente a sus especificaciones
 
-- [Prueba de caja negra - Registro de pago](prueba-caja-negra.md)
+- [Prueba de caja negra - Registro de pago](caja-negra.md)
 
 ## Prueba de caja blanca
 se basa en la estructura y obtiene pruebas de la implementación o la estructura interna del sistema como:
