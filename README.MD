@@ -13,5 +13,9 @@ Fundamentos, niveles y tipos de prueba, caja negra y caja blanca.
 
 [Constancia sin where](sin_where/README.MD)
 
+### ceremonias
+
+[ significado](ceremonias/readme.md)
+
 
 
