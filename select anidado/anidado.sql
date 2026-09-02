@@ -1,0 +1,1 @@
+select numero_poliza, valor_prima, estado from polizas where valor_prima < (select max(valor_prima) from polizas);
